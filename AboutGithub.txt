@@ -1,1 +1,2 @@
 GitHub, Inc. is a United States-based global company that provides hosting for software development version control using Git.
+It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
