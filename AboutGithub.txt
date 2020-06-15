@@ -7,3 +7,8 @@ Branch is used to isolate development work without affecting other branches in t
 
 GitHub Enterprise
 GitHub Enterprise is a self-managed version of GitHub with similar functionality. It can be run on an organisation's own hardware or on a cloud provider, and it has been available since November 2011.
+
+We can use branches to:
+Develop features
+Fix bugs
+Safely experiment with new ideas
