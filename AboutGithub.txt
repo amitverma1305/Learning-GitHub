@@ -2,6 +2,9 @@ GitHub, Inc. is a United States-based global company that provides hosting for s
 It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
 GitHub was developed by Chris Wanstrath, P. J. Hyett, Tom Preston-Werner and Scott Chacon using Ruby on Rails, and started in February 2008. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.
 
+Issues:
+Use issues to track ideas, enhancements, tasks, or bugs for work on GitHub.
+
 Branches:
 Branch is used to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.
 
