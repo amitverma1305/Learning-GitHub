@@ -15,3 +15,6 @@ We can use branches to:
 Develop features
 Fix bugs
 Safely experiment with new ideas
+
+Gist
+GitHub also operates other services: a pastebin-style site called Gist that is for hosting code snippets (GitHub proper is for hosting larger projects).
